@@ -9,16 +9,16 @@
 
 </div>
 
-## About me
+### 🙋🏻‍♂️ About me:
 
-👋🏻 **Hi I used to work in many jobs but technology always been there, so that's why I turn on my career and learn programming to **solve problems in a different way!** , Always working to improve my tech skills** , 
+**Hi I used to work in many jobs but technology always been there, so that's why I turn on my career and learn programming to **solve problems in a different way!** , Always working to improve my tech skills** , 
 
 -  🌱 I´m currently learning AI, NextJS
 -  🚀 currently working on my site projects
 
 
 
-## 🛠️ Languages:
+### 🛠️ Languages:
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
@@ -36,8 +36,8 @@
   
 </div>
 
-## Connect with me:
+### 📫 Connect with me:
 
-<a href= 'https://www.linkedin.com/in/fernando-alexis-hern%C3%A1ndez-2a3a3b2a4/'/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" height="50">
-<a href= 'https://github.com/FernandoAlexisHH'/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="50" height="50">
+<a href= 'https://www.linkedin.com/in/fernando-alexis-hern%C3%A1ndez-2a3a3b2a4/' target= '_blank'/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" height="50">
+<a href= '' target= '_blank'/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="50" height="50">
 
