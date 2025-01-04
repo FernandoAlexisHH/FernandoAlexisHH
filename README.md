@@ -5,7 +5,7 @@
 </div>
 <div align ="center">
   
-## 🧑🏻‍💻 A Software Enginner (Full-Stack)
+## A Software Enginner (Full-Stack)
 
 </div>
 
@@ -36,7 +36,7 @@
   </div>
 
 ### 📫 Connect with me:
-<a href= '' target=”_blank”/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="40" height="40">
-<a href= 'https://www.linkedin.com/in/fernando-alexis-hernandez/' target=”_blank”/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40">
+<a href= '' target=”_blank”/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="40" height="40"></a>
+<a href= 'https://www.linkedin.com/in/fernando-alexis-hernandez/' target=”_blank”/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="40" height="40"></a>
 
 
