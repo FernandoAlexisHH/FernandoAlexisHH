@@ -33,6 +33,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/>
 <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="java" width="50" height="50"/>
 <img src="https://statics.cdn.200lab.io/2024/11/spring-boot-la-gi.png" alt="springboot" width="50" height="50"/>
+ <img src="https://www.fullstackpython.com/img/logos/py.png" alt="python" width="50" height="50"/>
+
   </div>
 
 ### 📫 Connect with me:
