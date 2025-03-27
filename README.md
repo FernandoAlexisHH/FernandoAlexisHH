@@ -34,9 +34,7 @@
 <img src="https://statics.cdn.200lab.io/2024/11/spring-boot-la-gi.png" alt="springboot" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/>
 <img src="https://phoenixweb.com.au/wp-content/uploads/2016/11/MySQL-logo.png.webp" alt="mysql" width="50" height="50"/>
-
-
-  </div>
+</div>
 
 ### 📫 Connect with me:
 <a href= '' target=”_blank”/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/2048px-Mail_%28iOS%29.svg.png" width="40" height="40"></a>
